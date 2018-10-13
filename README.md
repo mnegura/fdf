@@ -5,8 +5,7 @@ Linux version (tested on Ubuntu)
 ## Installation
 <br /><hr />
 ```
-git clone https://github.com/mnegura/fdf.git
-<br />
+git clone (https://github.com/mnegura/fdf.git)
 make
 ./fdf [map_path]
 ```
