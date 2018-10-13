@@ -63,11 +63,11 @@ void	help_key(int key, t_fdf *fdf)
 		fdf->mvx += 13;
 		next_step(fdf);
 	}
-}
+ }
 
 int		key_hook(int key, t_fdf *fdf)
 {
-	if (key == 27)
+	if (key == 65307)
 		exit(1);
 	if (key == ARROW_UP)
 	{

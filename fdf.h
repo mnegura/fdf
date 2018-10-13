@@ -41,17 +41,17 @@
 # define PINK13 0x990099
 # define PINK14 0x800080
 
-# define ARROW_UP 91
-# define ARROW_DOWN 93
-# define ARROW_R 124
-# define ARROW_L 123
-# define KEY_MIN 43
-# define KEY_MAX 47
+# define ARROW_UP 65362
+# define ARROW_DOWN 65364
+# define ARROW_R 65361
+# define ARROW_L 65363
+# define KEY_MIN 44
+# define KEY_MAX 46
 # define KEY_R 114
 # define KEY_W 119
-# define KEY_A 0
+# define KEY_A 97
 # define KEY_S 115
-# define KEY_D 2
+# define KEY_D 100
 # define PLUS 61
 # define MINUS 45
 
